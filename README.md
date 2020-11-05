@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**heh9/heh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About
+---------
+I am a self-taught Software Engineer, looking for a technical challenge. I might call myself an explorer that likes to browse Hacker News, Martin Fowler's blog, Dev.to and other relevant content platforms in order to learn something new every day.
+Over the years, I have acquired numerous skills in various IT fields, and for a while now, I got in touch with DevOps. I want to use my knowledge and experience to help developers and operations teams to cooperate better and improve the way they do things while adding value to the product we work on.
 
-Here are some ideas to get you started:
+Keeping up to date with what's new is very important for me, both on a technical level and on personal level. As I constantly strive to acquire new skills I would like to be in a team with people that are as passionate as me about technology and to be able to share and learn new things together while building awesome and innovative products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on `rollotf`
+- 🌱 I’m currently reading `Building Evolutionary Architectures`
+- 💬 Ask me about `Immutable Infrastructure using Terraform, Packer and Cloud-init`
+- 📫 How to reach me: [twitter](https://twitter.com/vladimiriacob) | [linkedin](https://www.linkedin.com/in/vladimiriacob/)
