@@ -5,7 +5,7 @@ Over the years, I have acquired numerous skills in various IT fields, and for a 
 
 Keeping up to date with what's new is very important for me, both on a technical level and on personal level. As I constantly strive to acquire new skills I would like to be in a team with people that are as passionate as me about technology and to be able to share and learn new things together while building awesome and innovative products.
 
-- 🔭 I’m currently working on `rollotf`
-- 🌱 I’m currently reading `Building Evolutionary Architectures`
-- 💬 Ask me about `Immutable Infrastructure using Terraform, Packer and Cloud-init`
-- 📫 How to reach me: [twitter](https://twitter.com/vladimiriacob) | [linkedin](https://www.linkedin.com/in/vladimiriacob/)
+🔭 I’m currently working on `rollotf`  
+🌱 I’m currently reading `Building Evolutionary Architectures`  
+💬 Ask me about `Immutable Infrastructure using Terraform, Packer and Cloud-init`  
+📫 How to reach me: [twitter](https://twitter.com/vladimiriacob) | [linkedin](https://www.linkedin.com/in/vladimiriacob/)
