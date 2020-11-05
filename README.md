@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-About
----------
 I am a self-taught Software Engineer, looking for a technical challenge. I might call myself an explorer that likes to browse Hacker News, Martin Fowler's blog, Dev.to and other relevant content platforms in order to learn something new every day.
 Over the years, I have acquired numerous skills in various IT fields, and for a while now, I got in touch with DevOps. I want to use my knowledge and experience to help developers and operations teams to cooperate better and improve the way they do things while adding value to the product we work on.
 
