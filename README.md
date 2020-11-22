@@ -10,4 +10,6 @@ Keeping up to date with what's new is very important for me, both on a technical
 🔭 I’m currently working on `rollotf`  
 🌱 I’m currently reading `Building Evolutionary Architectures`  
 💬 Ask me about `Immutable Infrastructure using Terraform, Packer and Cloud-init`  
-📫 How to reach me: ![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white") ![Twitter](https://img.shields.io/twitter/follow/vladimiriacob?style=social)
+📫 How to reach me:
+
+![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white") ![Twitter](https://img.shields.io/twitter/follow/vladimiriacob?style=social)
