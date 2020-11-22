@@ -10,5 +10,3 @@ Keeping up to date with what's new is very important for me, both on a technical
 💬 Ask me about `Immutable Infrastructure using Terraform, Packer and Cloud-init`  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heh9&theme=buefy&layout=compact)
-
-<img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/twitter/follow/vladimiriacob?style=social"/>
