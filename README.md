@@ -11,4 +11,4 @@ Keeping up to date with what's new is very important for me, both on a technical
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heh9&theme=buefy&layout=compact)
 
-![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white") ![Twitter](https://img.shields.io/twitter/follow/vladimiriacob?style=social)
+<img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/twitter/follow/vladimiriacob?style=social"/>
