@@ -5,10 +5,10 @@ Over the years, I have acquired numerous skills in various IT fields, and for a 
 
 Keeping up to date with what's new is very important for me, both on a technical level and on personal level. As I constantly strive to acquire new skills I would like to be in a team with people that are as passionate as me about technology and to be able to share and learn new things together while building awesome and innovative products.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heh9&theme=buefy&layout=compact)
-
 🔭 I’m currently working on `rollotf`  
 🌱 I’m currently reading `Building Evolutionary Architectures`  
 💬 Ask me about `Immutable Infrastructure using Terraform, Packer and Cloud-init`  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heh9&theme=buefy&layout=compact)
 
 ![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white") ![Twitter](https://img.shields.io/twitter/follow/vladimiriacob?style=social)
